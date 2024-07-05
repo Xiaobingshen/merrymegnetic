@@ -4,7 +4,7 @@ This repository provides resources and methodologies for predicting iron losses 
 
 ## Papers and Contributions
 
-### 1. [Conditional Generative Adversarial Network Aided Iron Loss Prediction](10.1109/TPEL.2024.3397041)
+### 1. [Conditional Generative Adversarial Network Aided Iron Loss Prediction](https://ieeexplore.ieee.org/abstract/document/10520826)
 - **Abstract**: This paper introduces a novel approach using Conditional Generative Adversarial Networks (cGANs) to predict iron losses in HF magnetic components, incorporating various operational and material-specific parameters.
 - **Key Contributions**:
   - Utilization of cGANs for complex dependency modeling.
