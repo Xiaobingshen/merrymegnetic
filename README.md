@@ -1,4 +1,4 @@
-# High-Frequency Magnetic Component Iron Loss Prediction
+# High-Frequency Magnetic Component Core Loss Prediction
 
 This repository provides resources and methodologies for predicting iron losses in high-frequency (HF) magnetic components using advanced machine learning techniques. It includes datasets, code, and detailed methodologies from three key studies.
 
