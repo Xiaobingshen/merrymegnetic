@@ -44,6 +44,6 @@ This repository encapsulates our efforts to leverage machine learning for predic
 
 ---
 
-**Contact**: For questions or contributions, please reach out to [your contact email].
+**Contact**: For questions or contributions, please reach out to xiaobing.shen@kuleuven.be.
 
 **License**: This project is licensed under the MIT License.
